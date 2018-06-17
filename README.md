@@ -1,7 +1,7 @@
 # Models-From-Scratch
 
 
-This repository will show the creation of the following algorithms from scratch:
+This repository will show the top-down object-oriented implementation of the following algorithms from scratch:
 
 1. Linear Regression (completed)
 2. Random Forest (completed)
